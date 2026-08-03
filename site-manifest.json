@@ -4863,8 +4863,10 @@
       "gallery-50.webp"
     ],
     "gallerySource": "industries/drain/gallery",
-    "verifyFiles": [],
-    "verifySource": "",
+    "verifyFiles": [
+      "naver79c1ab26bdd279bff33fd5572170706a.html"
+    ],
+    "verifySource": "brands/draindream/verify",
     "fairImages": [],
     "fairImagesSource": "",
     "heroImageSource": "",
