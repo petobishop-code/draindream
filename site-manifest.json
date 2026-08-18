@@ -4873,6 +4873,20 @@
     "headerImageSource": "",
     "photos": [],
     "photosSource": "",
+    "promoImages": [
+      "promo-01.webp",
+      "promo-02.webp",
+      "promo-03.webp",
+      "promo-04.webp",
+      "promo-05.webp",
+      "promo-06.webp",
+      "promo-07.webp",
+      "promo-08.webp",
+      "promo-09.webp",
+      "promo-10.webp",
+      "promo-11.webp"
+    ],
+    "promoImagesSource": "industries/drain/promo",
     "customArticles": {}
   }
 }
